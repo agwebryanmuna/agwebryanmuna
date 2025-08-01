@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @agwebryanmuna
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning tailwind css
-- 💞️ I’m looking to collaborate on nothing as of now
-- ⚡ Fun fact: I'm not that tall 😂
+- 👋 Hi, I’m Agwe Bryan (aka. AB)
+- I'm a full-stack web developer skilled in React, Next.js, Node.js, and MongoDB. I enjoy building scalable apps, clean UIs, and RESTful APIs.
+- 🌱 Currently teaching web dev part-time  
+- ⚡ Check out my featured projects below  
 
-<!---
-agwebryanmuna/agwebryanmuna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔗 [LinkedIn](https://www.linkedin.com/in/bryan-muna-a73224369/)
